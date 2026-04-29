@@ -1,0 +1,16 @@
+[
+    {
+        "patient_id": "1",
+        "name": "Arfa Siraj",
+        "age": "13",
+        "gender": "female",
+        "phone": "076556283"
+    },
+    {
+        "patient_id": "2",
+        "name": "Sara khan",
+        "age": "19",
+        "gender": "female",
+        "phone": "0348863873"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "doctor_id": "1",
+        "name": "Fawad khan",
+        "specialization": "bone",
+        "phone": "03488783682"
+    },
+    {
+        "doctor_id": "2",
+        "name": "eman khan",
+        "specialization": "heart",
+        "phone": "034843472"
+    }
+]
